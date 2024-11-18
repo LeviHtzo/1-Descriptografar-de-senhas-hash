@@ -1,4 +1,4 @@
-# 1-Descriptografar-de-senhas-hash
+Instale essas ferramentas no Termux
 Para usar no Termux estale  
 
 apt install Python3  
